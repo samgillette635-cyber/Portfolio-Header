@@ -22,10 +22,9 @@ Home Lab (Active)
 Building a home lab that simulates a real netowork to practice redteam and blue team approaches
 
 * Network traffic analysis
-* Malware behavior observation
+* SIEM TOOLS
 
 Connect With Me
 
 LinkedIn: https://www.linkedin.com/in/sam-gillette2026/
 Email: samgillette635@gmail.com
-Youtube: https://www.youtube.com/@samgillette23
